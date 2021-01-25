@@ -12,7 +12,7 @@ I received the master's degree in computer science from the Guizhou Normal Unive
 
 Awards
 ======
-2020 National Scholarship for PhD Students
+2020 National Scholarship for Ph.D. Students
 
 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
 
