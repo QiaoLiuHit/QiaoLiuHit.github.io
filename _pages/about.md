@@ -13,5 +13,7 @@ I received the master's degree in computer science from the Guizhou Normal Unive
 Awards
 ======
 2020 National Scholarship for PhD Students
+
 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
+
 2017 Best Paper Award of the ICSPAC Conference
