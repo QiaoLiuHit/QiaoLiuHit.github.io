@@ -11,7 +11,7 @@ title                    : "Qiao Liu / Homepage"
 title_separator          : "-"
 name                     : &name "Qiao Liu"
 description              : &description "PhD Candidate"
-url                      : https://qiaoliuhit.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiaoliuhit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qiao Liu (刘乔)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
-  location         : "China"
+  bio              : "I am a PhD candidate from HITSZ"
+  location         : "China, Shenzhen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lC38PiEAAAAJ&hl=zh-CN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QiaoLiuHit"
+  github           : "QiaoLiuHit"
   google_plus      :
   keybase          :
   instagram        :
