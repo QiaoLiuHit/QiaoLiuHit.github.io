@@ -1,0 +1,25 @@
+---
+title: "Multi-Task Driven Feature Models for Thermal Infrared Tracking"
+collection: publications
+permalink: /publication/MMNet
+excerpt: 'Existing deep Thermal InfraRed (TIR) trackers usually use the feature models of RGB trackers for representation. However, these feature models learned on RGB images are neither effective in representing TIR objects nor taking fine-grained TIR information into consideration. To this end, we develop a multi-task framework to learn the TIR-specific discriminative features and fine-grained correlation features for TIR object tracking.'
+date: 2020-04-03
+venue: 'Proceedings of the 34th AAAI Conference on Artifical Intelligence (AAAI2020)'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/6828'
+
+---
+Existing deep Thermal InfraRed (TIR) trackers usually use the feature models of RGB trackers for representation. However, these feature models learned on RGB images are neither effective in representing TIR objects nor taking fine-grained TIR information into consideration. To this end, we develop a multi-task framework to learn the TIR-specific discriminative features and fine-grained correlation features for TIR tracking. Specifically, we first use an auxiliary classification network to guide the generation of TIR-specific discriminative features for distinguishing the TIR objects belonging to different classes. Second, we design a fine-grained aware module to capture more subtle information for distinguishing the TIR objects belonging to the same class. These two kinds of features complement each other and recognize TIR objects in the levels of inter-class and intra-class respectively. These two feature models are learned using a multi-task matching framework and are jointly optimized on the TIR tracking task. In addition, we develop a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. Extensive experimental results on three benchmarks show that the proposed algorithm achieves a relative gain of 10% over the baseline and performs favorably against the state-of-the-art methods.
+
+[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/6828) and [Code from here]( https://github.com/QiaoLiuHit/MMNet)
+
+## Citation
+If you use the code or dataset, please consider citing our paper.
+```
+@inproceedings{MMNet,
+  title={Multi-Task Driven Feature Models for Thermal Infrared Tracking},
+  author={Liu, Qiao and Li, Xin and He, Zhenyu and Fan, Nana and Yuan, Di and Liu, Wei and Liang, YongSheng},
+  booktitle={Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  pages={11604-11611},
+  year={2020}
+}
+```
