@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I received the master's degree in computer science from the Guizhou Normal University in 2016. I am a Ph.D. candidate with the Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, visual object tracking, and computer vision.
+I received the master's degree in computer science from Guizhou Normal University in 2016. I am a Ph.D. candidate with the Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, visual object tracking, and computer vision.
 
 Awards
 ======
-2020 National Scholarship for Ph.D. Students
+2020 National Scholarship for Ph.D. Student
 
 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
 
