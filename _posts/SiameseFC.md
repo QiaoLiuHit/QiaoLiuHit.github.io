@@ -1,7 +1,7 @@
 ---
 title: '基于卷积孪生神经网络的目标跟踪方法介绍'
 date: 2017-05-23
-permalink: /posts/SiameseFC
+permalink: /posts/SiameseFC.md
 tags:
   - 目标跟踪
   - 深度学习
