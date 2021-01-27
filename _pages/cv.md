@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Technology, Yangtze University College of Technology & Engineering, 2013
 * M.S. in Computer Science and Technology, Guizhou Normal University, 2016
-* Ph.D in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2021 
+* Ph.D. in Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2021 
 
 Publications
 ======
