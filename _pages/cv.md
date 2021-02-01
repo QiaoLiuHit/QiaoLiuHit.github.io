@@ -23,4 +23,4 @@ Publications
   
 Service and leadership
 ======
-* Reviewer of Knowledge-Based Systems, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, etc.
+* Reviewer of Knowledge-Based Systems, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, etc.
