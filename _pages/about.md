@@ -10,10 +10,13 @@ redirect_from:
 
 I received the master's degree in computer science from Guizhou Normal University in 2016. I am a Ph.D. candidate with the Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, visual object tracking, and computer vision.
 
+News
+=====
+* [2020-08] Our paper "LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark" is accepted by ACM MM 2020.
+* [2019-11] Our papper "Multi-Task Driven Feature Models for Thermal Infrared Tracking" is accepted by AAAI 2020.
+
 Awards
 ======
-2020 National Scholarship for Ph.D. Student
-
-2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
-
-2017 Best Paper Award of the ICSPAC Conference
+* 2020 National Scholarship for Ph.D. Student
+* 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
+* 2017 Best Paper Award of the ICSPAC Conference
