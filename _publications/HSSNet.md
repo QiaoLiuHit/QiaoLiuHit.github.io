@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Spatial-aware Siamese Network for Thermal Infrared Object Tracking"
 collection: publications
-permalink: /publication/HSSNet
+permalink: /publications/HSSNet
 excerpt: 'In this paper, we cast the thermal infrared (TIR) object tracking problem as a similarity verification task, which is coupled well to the objective of the tracking task. We propose a TIR tracker via a Hierarchical Spatial-aware Siamese Convolutional Neural Network, named HSSNet. '
 date: 2019-02-15
 venue: 'Knowledge-Based Systems'
