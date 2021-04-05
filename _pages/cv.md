@@ -18,13 +18,13 @@ Education
 
 Publications
 ======
-* Nana Fan, **Qiao Liu**, Xin Li, Zikun Zhou, Zhenyu He. Interactive convolutional learning for visual tracking[J]. Knowledge-Based Systems, 2021, 214: 106724.
-* Di Yuan, Xiaojun Chang, Po-Yao Huang, **Qiao Liu**, Zhenyu He, Self-Supervised Deep Correlation Tracking[J]. IEEE Transactions on Image Processing, 2020, 30: 976-985.
-* Xin Li, **Qiao Liu**, Nana Fan, Zikun Zhou, Zhenyu He, Xiao-yuan Jing, Dual-regression model for visual tracking[J]. Neural Networks, 2020, 132: 364-374.
-* **Qiao Liu**, Xin Li, Zhenyu He, Chenglong Li, Jun Li, Zikun Zhou, Di Yuan, Jing Li, Kai Yang, Nana Fan, Feng Zheng, LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark[C]//Proceedings of the 28th ACM International Conference on Multimedia. 2020: 3847-3856.
-* **Qiao Liu**, Xin Li, Zhenyu He, Nana Fan, Di Yuan, Wei Liu, Yonsheng Liang, Multi-task driven feature models for thermal infrared tracking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 11604-11611.
-* **Qiao Liu**, Xin Li, Zhenyu He, Nana Fan, Di Yuan, Hongpeng Wang, Learning deep multi-level similarity for thermal infrared object tracking[J]. IEEE Transactions on Multimedia, 2020.
-* Di Yuan, Xin Li, Zhenyu He, **Qiao Liu**, Shuwei Lu, Visual object tracking with adaptive structural convolutional network[J]. Knowledge-Based Systems, 2020, 194: 105554.
+* Nana Fan, **Qiao Liu**, Xin Li, Zikun Zhou, Zhenyu He*. **Interactive convolutional learning for visual tracking**. Knowledge-Based Systems, 2021, 214: 106724. [Paper](https://www.researchgate.net/publication/348352903_Interactive_convolutional_learning_for_visual_tracking) (JCR Q1)
+* Di Yuan, Xiaojun Chang, Po-Yao Huang, **Qiao Liu**, Zhenyu He*, **Self-Supervised Deep Correlation Tracking**. IEEE Transactions on Image Processing, 2020, 30: 976-985. [Paper](https://www.researchgate.net/publication/346550566_Self-Supervised_Deep_Correlation_Tracking)(CCF A, JCR Q1)
+* Xin Li, **Qiao Liu**, Nana Fan, Zikun Zhou, Zhenyu He*, Xiao-yuan Jing, Dual-regression model for visual tracking[J]. Neural Networks, 2020, 132: 364-374. (CCF B, JCR Q1)
+* **Qiao Liu**, Xin Li, Zhenyu He*, Chenglong Li, Jun Li, Zikun Zhou, Di Yuan, Jing Li, Kai Yang, Nana Fan, Feng Zheng, LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark[C]//Proceedings of the 28th ACM International Conference on Multimedia. 2020: 3847-3856. (CCF A)
+* **Qiao Liu**, Xin Li, Zhenyu He*, Nana Fan, Di Yuan, Wei Liu, Yonsheng Liang, Multi-task driven feature models for thermal infrared tracking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 11604-11611. (CCF A)
+* **Qiao Liu**, Xin Li, Zhenyu He, Nana Fan, Di Yuan, Hongpeng Wang, Learning deep multi-level similarity for thermal infrared object tracking[J]. IEEE Transactions on Multimedia, 2020. (CCF B, JCR Q1)
+* Di Yuan, Xin Li, Zhenyu He*, **Qiao Liu**, Shuwei Lu, Visual object tracking with adaptive structural convolutional network[J]. Knowledge-Based Systems, 2020, 194: 105554. (JCR Q1)
 * **Qiao Liu**, Zhenyu He, Xin Li, Yuan Zheng, PTB-TIR: A thermal infrared pedestrian tracking benchmark[J]. IEEE Transactions on Multimedia, 2019, 22(3): 666-675.
 * Xin Li, **Qiao Liu**, Nana Fan, Zhenyu He, Hongzhi Wang, Hierarchical spatial-aware siamese network for thermal infrared object tracking[J]. Knowledge-Based Systems, 2019, 166: 71-81.
 * Bing Liu, **Qiao Liu**, Taiping Zhang, Yong Yang, MSSTResNet-TLD: A robust tracking method based on tracking-learning-detection framework by using multi-scale spatio-temporal residual network feature model[J]. Neurocomputing, 2019, 362: 175-194.
