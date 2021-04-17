@@ -21,6 +21,6 @@ Awards
 * 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
 * 2017 Best Paper Award of the ICSPAC Conference
 
-Activity
+Activites
 =====
 * Reviewer of IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, Knowledge-Based Systems, Neural Networks, Measurement, IEEE Access, etc.
