@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 * Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Noise-suppressing Deep Tracking, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2021. (CCF B, JCR Q1)
-* Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Learning Dual-Margin Model for Visual Tracking, Neural Networks (**NN**), 2021.(CCF B, JCR Q1)
+* Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Learning Dual-Margin Model for Visual Tracking, Neural Networks (**NN**), 2021. [[Paper]](https://www.researchgate.net/publication/350957133_Learning_dual-margin_model_for_visual_tracking) (CCF B, JCR Q1)
 * Nana Fan, **Qiao Liu**, Xin Li, Zikun Zhou, Zhenyu He*. Interactive convolutional learning for visual tracking[J]. Knowledge-Based Systems (**KBS**), 2021, 214: 106724. [[Paper]](https://www.researchgate.net/publication/348352903_Interactive_convolutional_learning_for_visual_tracking) (JCR Q1)
 * Di Yuan, Xiaojun Chang, Po-Yao Huang, **Qiao Liu**, Zhenyu He*, Self-Supervised Deep Correlation Tracking[J]. IEEE Transactions on Image Processing (**TIP**), 2020, 30: 976-985. [[Paper]](https://www.researchgate.net/publication/346550566_Self-Supervised_Deep_Correlation_Tracking) (CCF A, JCR Q1)
 * Xin Li, **Qiao Liu**, Nana Fan, Zikun Zhou, Zhenyu He*, Xiao-yuan Jing, Dual-regression model for visual tracking[J]. Neural Networks (**NN**), 2020, 132: 364-374. [[Paper]](https://www.researchgate.net/publication/344533021_Dual-regression_model_for_visual_tracking) (CCF B, JCR Q1)
