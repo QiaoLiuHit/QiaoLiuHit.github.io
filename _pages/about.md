@@ -23,4 +23,4 @@ Awards
 
 Activites
 =====
-* Reviewer of IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, Knowledge-Based Systems, Neural Networks, Measurement, IEEE Access, etc.
+* Reviewer of IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, ACM Transactions on Multimedia Computing Communications and Applications, Knowledge-Based Systems, Neural Networks, Measurement, IEEE Access, etc.
