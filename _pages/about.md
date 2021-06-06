@@ -12,6 +12,7 @@ I am a Ph.D. candidate with the Department of Computer Science and Technology, [
 
 News
 =====
+* [2020-06] I successfully pass the doctoral dissertation defense.
 * [2020-08] Our paper "LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark" is accepted by ACM MM 2020.
 * [2019-11] Our paper "Multi-Task Driven Feature Models for Thermal Infrared Tracking" is accepted by AAAI 2020.
 
