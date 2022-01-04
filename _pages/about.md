@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, visual object tracking.
+I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, and image fusion.
 
 News
 =====
+* [2022-01] One paper is accepted by TMM.
 * [2021-12] We release an informative tracking [benchmark](https://github.com/XinLi-zn/Informative-tracking-benchmark).
 * [2021-09] I join the National Center for Applied Mathematics in Chongqing, Chongqing Normal University.
 * [2021-06] I pass the doctoral dissertation defense successfully.
