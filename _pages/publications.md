@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* **Qiao Liu**, Di Yuan, Nana Fan, Peng Gao, Xin Li*, Zhenyu He*, Learning Dual-Level Deep Representation for Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2022. (CCF B, JCR Q1)
 * Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Noise-suppressing Deep Tracking, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2021. (CCF B, JCR Q1)
 * Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Learning Dual-Margin Model for Visual Tracking, Neural Networks (**NN**), 2021. [[Paper]](https://www.researchgate.net/publication/350957133_Learning_dual-margin_model_for_visual_tracking) (CCF B, JCR Q1)
 * Nana Fan, **Qiao Liu**, Xin Li, Zikun Zhou, Zhenyu He*. Interactive convolutional learning for visual tracking[J]. Knowledge-Based Systems (**KBS**), 2021, 214: 106724. [[Paper]](https://www.researchgate.net/publication/348352903_Interactive_convolutional_learning_for_visual_tracking) (JCR Q1)
