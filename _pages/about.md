@@ -12,6 +12,7 @@ I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Ins
 
 News
 =====
+* [2022-01] Two papers are selected as ESI highly cited. 
 * [2022-01] One paper is accepted by TMM.
 * [2021-12] We release an informative tracking [benchmark](https://github.com/XinLi-zn/Informative-tracking-benchmark).
 * [2021-09] I join the National Center for Applied Mathematics in Chongqing, Chongqing Normal University.
