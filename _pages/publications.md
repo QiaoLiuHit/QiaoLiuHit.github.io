@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+* Jianhua Yin, **Qiao Liu**\*, FanYang Meng, Zhenyu He, STCDesc: Learning Deep Local Descriptor Using Similar Triangle Constraint. Knowledge-Based Systems (**KBS**), 2022. (JCR Q1) (Accepted)
+* Di Yuan, Shu Xiu, **Qiao Liu**, Zhenyu He, Structural target-aware model for thermal infrared tracking, Neurocomputing, 2022. (JCR Q1) [[Paper]](https://www.researchgate.net/publication/359392923_Structural_target-aware_model_for_thermal_infrared_tracking)
 * **Qiao Liu**, Di Yuan, Nana Fan, Peng Gao, Xin Li\*, Zhenyu He\*, Learning Dual-Level Deep Representation for Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2022. (CCF B, JCR Q1) [[Paper]](https://www.researchgate.net/publication/357636712_Learning_Dual-Level_Deep_Representation_for_Thermal_Infrared_Tracking)[[Code]](https://github.com/QiaoLiuHit/MMNet)
 * Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Noise-suppressing Deep Tracking, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2021. (CCF B, JCR Q1)[[Paper]](https://ieeexplore.ieee.org/document/9458282)
 * Nana Fan, Xin Li, Zikun Zhou, **Qiao Liu**, Zhenyu He*, Learning Dual-Margin Model for Visual Tracking, Neural Networks (**NN**), 2021. [[Paper]](https://www.researchgate.net/publication/350957133_Learning_dual-margin_model_for_visual_tracking) (CCF B, JCR Q1)
