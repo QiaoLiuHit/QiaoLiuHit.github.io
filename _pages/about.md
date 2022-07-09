@@ -12,6 +12,7 @@ I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Ins
 
 News
 =====
+* [2022-07] I win the 24th HIT outstanding doctoral dissertation award.
 * [2022-03] Two papers are accepted by Neurocomputing and KBS.
 * [2022-01] Two papers are selected as ESI highly cited. 
 * [2022-01] One paper is accepted by TMM.
@@ -23,6 +24,7 @@ News
 
 Awards
 ======
+* 2022 Outstanding Doctoral Dissertation Award of HIT
 * 2020 National Scholarship for Ph.D. Student
 * 2020 LiGuang Scholarship of Harbin Institute of Technology (Shenzhen)
 * 2017 Best Paper Award of the ICSPAC Conference
