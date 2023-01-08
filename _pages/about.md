@@ -12,6 +12,7 @@ I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Ins
 
 News
 =====
+* [2023-01] Two papers are accepted by TCSII and Information Science.
 * [2022-07] I win the 24th HIT outstanding doctoral dissertation award.
 * [2022-03] Two papers are accepted by Neurocomputing and KBS.
 * [2022-01] Two papers are selected as ESI highly cited. 
