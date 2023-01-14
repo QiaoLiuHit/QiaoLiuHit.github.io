@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [26] Nana Fan\#, **Qiao Liu**\#, Xin Li*, Zikun Zhou, Zhenyu He, Siamese Residual Network for Efficient Visual Tracking. Information Science, 2023. (JCR Q1, CCF B) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025522015778?dgcid=coauthor)
+* [27] **Qiao Liu**, Xin Li, Di Yuan, Chao Yang, Xiaojun Chang, Zhenyu He. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Single Object Tracking Benchmark. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (JCR Q1, CCF B)
+* [26] Nana Fan\#, **Qiao Liu**\#, Xin Li*, Zikun Zhou, Zhenyu He, Siamese Residual Network for Efficient Visual Tracking. Information Science (**INS**), 2023. (JCR Q1, CCF B) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025522015778?dgcid=coauthor)
 * [25] Di Yuan, Xiu Shu, **Qiao Liu**\*, Zhenyu He, Aligned Spatial-Temporal Memory Network for Thermal Infrared Target Tracking. IEEE Transactions on Circuits and Systems II: Express Briefs (**TCSII**), 2022. (JCR Q2) [[Paper]](https://www.researchgate.net/publication/365727905_Aligned_Spatial-Temporal_Memory_Network_for_Thermal_Infrared_Target_Tracking)
 * [24] Di Yuan, Xiu Shu, **Qiao Liu**, Xingming Zhang, Zhenyu He, Robust Thermal Infrared Tracking via an Adaptively Multi-feature Fusion Model. Neural Computing and Applications (**NCA**), 2022. (JCR Q1) [[Paper]](https://www.researchgate.net/publication/364318986_Robust_thermal_infrared_tracking_via_an_adaptively_multi-feature_fusion_model)
 * [23] Jianhua Yin, **Qiao Liu**\*, Fanyang Meng, Zhenyu He, STCDesc: Learning Deep Local Descriptor Using Similar Triangle Constraint. Knowledge-Based Systems (**KBS**), 2022. (JCR Q1)  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122003768?via%3Dihub)
