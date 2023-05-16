@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [29] Honghu Pan, **Qiao Liu**, Yongyong Cheng, Yunqi He, Yuan Zheng, Feng Zheng, Zhenyu He. Pose-Aided Video-based Person Re-Identificationvia Recurrent Graph Convolutional Network. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. (JCR Q1, CCF B) [[Paper]](https://arxiv.org/abs/2209.11582)
+* [29] Honghu Pan, **Qiao Liu**, Yongyong Cheng, Yunqi He, Yuan Zheng, Feng Zheng, Zhenyu He. Pose-Aided Video-based Person Re-Identification via Recurrent Graph Convolutional Network. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023. (JCR Q1, CCF B) [[Paper]](https://arxiv.org/abs/2209.11582)
 * [28] Di Yuan, Xiaojun Chang, **Qiao Liu**, Yi Yang, Dehua Wang, Minglei Shu, Zhenyu He, Guangming Shi. Active Learning for Deep Visual Tracking. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (JCR Q1, CCF B) [[Paper]](https://www.researchgate.net/publication/355664445_Active_Learning_for_Deep_Visual_Tracking)
 * [27] **Qiao Liu**, Xin Li, Di Yuan, Chao Yang, Xiaojun Chang, Zhenyu He. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Single Object Tracking Benchmark. IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023. (JCR Q1, CCF B)
 * [26] Nana Fan\#, **Qiao Liu**\#, Xin Li*, Zikun Zhou, Zhenyu He, Siamese Residual Network for Efficient Visual Tracking. Information Science (**INS**), 2023. (JCR Q1, CCF B) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025522015778?dgcid=coauthor)
