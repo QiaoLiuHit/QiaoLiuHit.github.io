@@ -12,6 +12,7 @@ I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Ins
 
 News
 =====
+* [2023-09] One paper is accepted by ESWA and one paper is selected as ESI highly paper.
 * [2023-05] Two papers are accepted by TNNLS and TCSVT.
 * [2023-01] Our extended TIR tracking benchmark LSOTB-TIR is accepted by TNNLS.
 * [2023-01] Two papers are accepted by TCSII and Information Science.
