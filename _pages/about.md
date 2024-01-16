@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, and image fusion.
+I am an associate professor at [National Center for Applied Mathematics](https://cqcam.cqnu.edu.cn/Version2022/sy.htm), Chongqing Normal University. I obtain the Ph.D. degree with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, and image fusion.
 
 News
 =====
+* [2024-01] Three papers are accepted by IEEE TIV, TIM, and TETCI.
 * [2023-09] One paper is accepted by ESWA and one paper is selected as ESI highly cited paper.
 * [2023-05] Two papers are accepted by TNNLS and TCSVT.
 * [2023-01] Our extended TIR tracking benchmark LSOTB-TIR is accepted by TNNLS.
@@ -35,4 +36,4 @@ Awards
 
 Activites
 =====
-* Reviewer of IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Industrial Informatics, ACM Transactions on Multimedia Computing Communications and Applications, Knowledge-Based Systems, Neural Networks, Measurement, IEEE Access, etc.
+* Reviewer of 40+ journals, including IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Multimedia, IEEE Transactions on Cybernetics, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Industrial Informatics, ACM Transactions on Multimedia Computing Communications and Applications, Knowledge-Based Systems, Neural Networks, Measurement, IEEE Access, etc.
