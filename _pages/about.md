@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at [National Center for Applied Mathematics](https://cqcam.cqnu.edu.cn/Version2022/sy.htm), Chongqing Normal University. I obtain the Ph.D. degree with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, and image fusion.
+I am an associate professor at [National Center for Applied Mathematics](https://cqcam.cqnu.edu.cn/Version2022/sy.htm), [Chongqing Normal University](https://www.cqnu.edu.cn/). I obtain the Ph.D. degree with the Department of Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](http://www.hitsz.edu.cn/index.html) and supervised by professor [Zhenyu He](http://www.hezhenyu.cn). My current research interests include thermal infrared object tracking, infrared image processing, and image fusion.
 
 News
 =====
