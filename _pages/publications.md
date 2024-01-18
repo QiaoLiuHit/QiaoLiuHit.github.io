@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [33] **Qiao Liu**\*, Jiatian Pi, Peng Gao, Di Yuan*. STFNet: Self-Supervised Transformer for Infrared and Visible Image Fusion. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024. (JCR Q2)
+* [33] **Qiao Liu**, Jiatian Pi, Peng Gao, Di Yuan*. STFNet: Self-Supervised Transformer for Infrared and Visible Image Fusion. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024. (JCR Q2)
 * [32] Di Yuan, Haiping Zhang, Xiu Shu,  **Qiao Liu**\*, Xiaojun Chang, Zhenyu He, Guangming Shi. Thermal Infrared Target Tracking: A Comprehensive Review. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2023. (JCR Q2)
 * [31] Di Yuan, Haiping Zhang, Xiu Shu, **Qiao Liu**\*, Xiaojun Chang, Zhenyu He, Guangming Shi. An Attention Mechanism Based AVOD Network for 3D Vehicle Detection. IEEE Transactions on Intelligent Vehicles (**TIV**), 2023. (JCR Q2).
 * [30] Chao Yang\#, **Qiao Liu**\#, Gaojun Li, Honghu Pan, Zhenyu He*. Learning Diverse Fine-grained Features for Thermal Infrared Tracking. Expert Systems with Applications (**ESWA**), 2023. (JCR Q1) [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429466)
