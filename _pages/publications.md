@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [35] Qiao Li, Kanlun Tan, **Qiao Liu**\*, Di Yuan, Xin Li, Yunpeng Liu. Efficient Hierarchical Domain Adaptive Thermal Infrared Tracking. IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2025. (CCF B)
+* [34] Renping Xie, Di Yuan, **Qiao Liu**\*. Overexposed Infrared and Visible Image Fusion Benchmark and Baseline. Expert Systems with Applications (**ESWA**), 2024. (JCR Q1)
 * [33] **Qiao Liu**, Jiatian Pi, Peng Gao, Di Yuan*. STFNet: Self-Supervised Transformer for Infrared and Visible Image Fusion. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024. (JCR Q2)
 * [32] Di Yuan, Haiping Zhang, Xiu Shu,  **Qiao Liu**\*, Xiaojun Chang, Zhenyu He, Guangming Shi. Thermal Infrared Target Tracking: A Comprehensive Review. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2023. (JCR Q2)
 * [31] Di Yuan, Haiping Zhang, Xiu Shu, **Qiao Liu**\*, Xiaojun Chang, Zhenyu He, Guangming Shi. An Attention Mechanism Based AVOD Network for 3D Vehicle Detection. IEEE Transactions on Intelligent Vehicles (**TIV**), 2023. (JCR Q2).
