@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* [39]  **Qiao Liu**\*, Qiao Li, Jiatian Pi, Xin Li, Di Yuan*, Yunpeng Liu. Unsupervised Domain Adaptive Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2025. (CCF B, JCR Q1)
+* [39]  **Qiao Liu**, Qiao Li, Jiatian Pi, Xin Li, Di Yuan*, Yunpeng Liu. Unsupervised Domain Adaptive Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2025. (CCF B, JCR Q1)
 * [38] Qianhong Zhang,  **Qiao Liu**\*, Di Yuan, Yyunpeng Liu. One-stream One-stage Pure Transformer for Infrared and Visible Image Fusion, Infrared Physics & Technology (**IPT**), 2025. (JCR Q2)
 * [37] Jiatian Pi, Fusen Wen, Fen Xia, Ning Jiang, Haiying Wu, **Qiao Liu**\*. Efficient Black-box Adversarial Attacks via Alternate Query and Boundary Augmentation, Knowledge-Based Systems (**KBS**), 2025. (JCR Q1)
 * [36] Donghai Liao, Xiu Shu, Zhihui Li, **Qiao Liu**\*, Di Yuan*, Xiaojun Chang, Zhenyu He. Fine-grained Feature and Template Reconstruction for TIR Object Tracking, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025. (JCR Q1, CCF B)
