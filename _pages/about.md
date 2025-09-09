@@ -12,6 +12,7 @@ I am an Associate Professor at [National Center for Applied Mathematics](https:/
 
 News
 =====
+* [2025-09] Two papers are accepted by IPT and TMM.
 * [2025-05] Two papers are accepted by TCSVT and KBS.
 * [2024-12] Two papers are accepted by ESWA and ICASSP.
 * [2024-01] Three papers are accepted by IEEE TIV, TIM, and TETCI.
@@ -31,6 +32,7 @@ News
 
 Awards
 ======
+* 2025 Bayu Young Scholar of Chongqing
 * 2024 Youth Top Talent of CQNU
 * 2022 Outstanding Doctoral Dissertation Award of HIT
 * 2020 National Scholarship for Ph.D. Student
