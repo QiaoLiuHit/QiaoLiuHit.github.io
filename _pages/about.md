@@ -12,6 +12,7 @@ I am an Associate Professor at [National Center for Applied Mathematics](https:/
 
 News
 =====
+* [2026-07] Two papers are accedpted by TMM and ESWA.
 * [2025-11] Two papers are accepted by TCSVT and KBS.
 * [2025-09] Two papers are accepted by IPT and TMM.
 * [2025-05] Two papers are accepted by TCSVT and KBS.
