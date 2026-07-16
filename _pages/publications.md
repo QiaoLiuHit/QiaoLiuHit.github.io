@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
+* [43] **Qiao Liu**, Chenghong Shi, Di Yuan*, Xin Li, Yunpeng Liu. Visual and Semantic Prior for Thermal Infrared
+Tracking, IEEE Transactions on Multimedia (**TMM**), 2026. (CCF A, JCR Q1, [[Code]]([https://github.com/QiaoLiuHit/DDAT](https://github.com/honggg-source/VSPT)))
+* [42] Jingyuan Guo, **Qiao Liu**\*, Kanlun Tan, Di Yuan, Yunpeng Liu. Physics Prior Adapter Tuning for Thermal Infrared Tracking, Expert Systems with Applications (**ESWA**), 2026. (JCR Q1)
 * [41]  Qianhong Zhang,  **Qiao Liu**\*, Di Yuan, Xin Li, Yunpeng Liu. PPIFuse: Physical Priors Injected Infrared and Visible Image Fusion, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025. (JCR Q1, CCF B, [[Code]](https://github.com/QiaoLiuHit/PPIFuse))
 * [40]  Yan Fan, Wei Ran, Kanlun Tan, **Qiao Liu**\*, Di Yuan, Yunpeng Liu. D2Fusion: Dual-domain Feature Decoupling for infrared and Visible lmage Fusion, Knowledge-Based Systems (**KBS**), 2025. (JCR Q1)
-* [39]  **Qiao Liu**, Qiao Li, Jiatian Pi, Xin Li, Di Yuan*, Yunpeng Liu. Unsupervised Domain Adaptive Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2025. (CCF B, JCR Q1, [[Code]](https://github.com/QiaoLiuHit/DDAT))
+* [39]  **Qiao Liu**, Qiao Li, Jiatian Pi, Xin Li, Di Yuan*, Yunpeng Liu. Unsupervised Domain Adaptive Thermal Infrared Tracking, IEEE Transactions on Multimedia (**TMM**), 2025. (CCF A, JCR Q1, [[Code]](https://github.com/QiaoLiuHit/DDAT))
 * [38] Qianhong Zhang,  **Qiao Liu**\*, Di Yuan, Yunpeng Liu. One-stream One-stage Pure Transformer for Infrared and Visible Image Fusion, Infrared Physics & Technology (**IPT**), 2025. (JCR Q2)
 * [37] Jiatian Pi, Fusen Wen, Fen Xia, Ning Jiang, Haiying Wu, **Qiao Liu**\*. Efficient Black-box Adversarial Attacks via Alternate Query and Boundary Augmentation, Knowledge-Based Systems (**KBS**), 2025. (JCR Q1)
 * [36] Donghai Liao, Xiu Shu, Zhihui Li, **Qiao Liu**\*, Di Yuan*, Xiaojun Chang, Zhenyu He. Fine-grained Feature and Template Reconstruction for TIR Object Tracking, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025. (JCR Q1, CCF B)
